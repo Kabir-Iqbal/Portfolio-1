@@ -20,6 +20,6 @@ I’m Kabir Iqbal, a passionate developer focused on building performant and bea
 
 ## 📬 Contact
 GitHub: github.com/Kabir-Iqbal
-[Chat with me on WhatsApp](https://wa.me/923483618356)
+Contact: [Chat with me on WhatsApp](https://wa.me/923483618356)
 
 
