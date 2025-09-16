@@ -132,6 +132,17 @@ export const portfolioData = {
     },
     {
       id: "project-4",
+      title: "Job Portal",
+      description:
+        "A Job Portal website where users can view, apply for jobs, and manage their applications.and also admin can manage the jobs and applications.",
+      image: "/Job-portal.png?height=600&width=800",
+      techStack: ["React.js", "Express.js", "Node.js", "MongoDB Atlas","Cloudinary"],
+      liveUrl: "https://jobportal.vercel.app/",
+      githubUrl: "https://github.com/Kabir-Iqbal/Job-Portal_fullStack-project",
+      featured: true,
+    },
+    {
+      id: "project-5",
       title: "Library Management System",
       description:
         "A web app to add, delete, update, search, and view books in a library, making it easy to manage and track book inventory.",
@@ -142,7 +153,7 @@ export const portfolioData = {
       featured: true,
     },
     {
-      id: "project-5",
+      id: "project-6",
       title: "Furniture Store",
       description: "An e-commerce furniture store built with dynamic product listings, real-time CMS integration, and a responsive UI.",
       image: "/furniture-shop.jpg?height=600&width=800",
@@ -152,7 +163,7 @@ export const portfolioData = {
       featured: false,
     },
     {
-      id: "project-6",
+      id: "project-7",
       title: "Portfolio Website",
       description: "A personal portfolio website showcasing my projects and skills.",
       image: "/port.png?height=600&width=800",
