@@ -52,7 +52,7 @@ export const portfolioData = {
     subheading: "Passionate about creating elegant solutions to complex problems",
     description:
       "I am a dedicated full stack developer with over 2+ year of experience designing and developing scalable web applications. My technical proficiency includes React, Next.js, Node.js, Express.js, TypeScript, MongoDB, and Sanity.io. I excel at building intuitive user interfaces and robust backend systems, ensuring optimal performance and maintainability. I am committed to continuous learning and staying updated with emerging technologies to deliver innovative solutions. Outside of work, I enjoy hiking, reading, and exploring new tech trends.",
-    image: "/dp_pic.jpg?height=400&width=400",
+    image: "/dp_pic.jpg",
   },
   socialLinks: [
     {
@@ -101,7 +101,7 @@ export const portfolioData = {
       title: "Simple Resume Builder",
       description:
         "A simple and dynamic resume builder that lets users add, edit, and preview their resume content in real-time.",
-      image: "/resume1.jpeg?height=600&width=800",
+      image: "/resume1.jpeg",
       techStack: ["Html5", "CSS3", "JavaScript"],
       liveUrl: "https://milestone5hackathone1.vercel.app/",
       githubUrl: "https://github.com/Kabir-Iqbal",
@@ -113,7 +113,7 @@ export const portfolioData = {
       title: "E-commerce Platform",
       description:
         "A full-featured e-commerce platform with product listings, cart functionality, user authentication, and payment processing.",
-      image: "/Avian-pic.png?height=600&width=800",
+      image: "/Avian-pic.png",
       techStack: ["Next.js", "TypeScript", "Tailwind CSS", "Node.js", "Sanity", "Stripe"],
       liveUrl: "https://avain-e-commerce.vercel.app/",
       githubUrl: "https://github.com/Kabir-Iqbal",
@@ -124,7 +124,7 @@ export const portfolioData = {
       title: "Notium Article",
       description:
         "A Notium website where users can write, view, edit, and delete articles. Only the article owner has permission to edit or delete their content, ensuring secure and personalized article management.",
-      image: "/article.webp?height=600&width=800",
+      image: "/article.webp",
       techStack: ["React.js", "TypeScript", "Express.js", "Node.js", "MongoDB Atlas"],
       liveUrl: "https://notium-artical.vercel.app",
       githubUrl: "https://github.com/Kabir-Iqbal",
@@ -135,7 +135,7 @@ export const portfolioData = {
       title: "Job Portal",
       description:
         "A Job Portal website where users can view, apply for jobs, and manage their applications.and also admin can manage the jobs and applications.",
-      image: "/Job-portal.png?height=600&width=800",
+      image: "/Job-portal.png",
       techStack: ["React.js", "Express.js", "Node.js", "MongoDB Atlas","Cloudinary"],
       liveUrl: "https://jobportal.vercel.app/",
       githubUrl: "https://github.com/Kabir-Iqbal/Job-Portal_fullStack-project",
@@ -146,7 +146,7 @@ export const portfolioData = {
       title: "Library Management System",
       description:
         "A web app to add, delete, update, search, and view books in a library, making it easy to manage and track book inventory.",
-      image: "/library-project.jpg?height=600&width=800",
+      image: "/library-project.jpg",
       techStack: ["Python", "Stramlit",],
       liveUrl: "https://library-management-313.streamlit.app/",
       githubUrl: "https://github.com/Kabir-Iqbal",
@@ -156,7 +156,7 @@ export const portfolioData = {
       id: "project-6",
       title: "Furniture Store",
       description: "An e-commerce furniture store built with dynamic product listings, real-time CMS integration, and a responsive UI.",
-      image: "/furniture-shop.jpg?height=600&width=800",
+      image: "/furniture-shop.jpg",
       techStack: ["TypeScript", "Next.js", "Tailwind CSS", "Sanity"],
       liveUrl: "https://furniture-shop-eosin.vercel.app/",
       githubUrl: "https://github.com/Kabir-Iqbal",
@@ -166,7 +166,7 @@ export const portfolioData = {
       id: "project-7",
       title: "Portfolio Website",
       description: "A personal portfolio website showcasing my projects and skills.",
-      image: "/port.png?height=600&width=800",
+      image: "/port.png",
       techStack: ["Next.js", "TypeScript", "Tailwind CSS"],
       liveUrl: "https://portfolio-in-nextjs-tailwind.vercel.app/",
       githubUrl: "https://github.com/Kabir-Iqbal",
