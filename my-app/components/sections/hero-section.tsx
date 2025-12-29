@@ -127,7 +127,7 @@ export function HeroSection() {
 
             {/* Decorative elements */}
             <div className="absolute -top-4 -right-4 w-20 h-20 bg-lavender/10 rounded-full border border-lavender/20 flex items-center justify-center animate-float">
-              <div className="text-2xl font-bold text-lavender">1+</div>
+              <div className="text-2xl font-bold text-lavender">2+</div>
             </div>
             <div className="absolute -bottom-8 -left-8 w-24 h-24 bg-peach/10 rounded-full border border-peach/20 flex items-center justify-center animate-float animation-delay-2000">
               <div className="text-center">

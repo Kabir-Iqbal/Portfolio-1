@@ -51,7 +51,7 @@ export const portfolioData = {
     heading: "Building digital experiences that make a difference",
     subheading: "Passionate about creating elegant solutions to complex problems",
     description:
-      "I am a dedicated full stack developer with over one year of experience designing and developing scalable web applications. My technical proficiency includes React, Next.js, Node.js, Express.js, TypeScript, MongoDB, and Sanity.io. I excel at building intuitive user interfaces and robust backend systems, ensuring optimal performance and maintainability. I am committed to continuous learning and staying updated with emerging technologies to deliver innovative solutions. Outside of work, I enjoy hiking, reading, and exploring new tech trends.",
+      "I am a dedicated full stack developer with over 2+ year of experience designing and developing scalable web applications. My technical proficiency includes React, Next.js, Node.js, Express.js, TypeScript, MongoDB, and Sanity.io. I excel at building intuitive user interfaces and robust backend systems, ensuring optimal performance and maintainability. I am committed to continuous learning and staying updated with emerging technologies to deliver innovative solutions. Outside of work, I enjoy hiking, reading, and exploring new tech trends.",
     image: "/dp_pic.jpg?height=400&width=400",
   },
   socialLinks: [

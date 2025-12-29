@@ -81,7 +81,7 @@ export function AboutSection() {
                   <div className="absolute inset-0 bg-gradient-to-br from-peach/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
                   <div className="relative z-10">
                     <div className="text-4xl font-bold bg-gradient-to-r from-peach to-peach/70 bg-clip-text text-transparent">
-                      1+
+                      2+
                     </div>
                     <p className="text-sm text-muted-foreground">Years Experience</p>
                   </div>
